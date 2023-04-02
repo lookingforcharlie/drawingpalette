@@ -1,8 +1,8 @@
 # Project: Color Palette Canvas
 
-Version 1
-Draw, undo and redo dots on the page
-[Inspired by](https://www.youtube.com/watch?v=A0BmLYHLPZs)
+- Version 1
+- Draw, undo and redo dots on the page
+- [Inspired by](https://www.youtube.com/watch?v=A0BmLYHLPZs)
 
 ## Stacks
 
